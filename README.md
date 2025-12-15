@@ -11,5 +11,3 @@ commission
 ## Getting Started
 
 Download the apk: https://github.com/carpenteroeljahfiona-jpg/carryhub/releases/download/v1.0.0/carryhub.apk
-View Installation Guide: https://drive.google.com/file/d/1Jh9vn8powyRZpAuhI9lLWeKLJjfUElgP/view?usp=sharing
-View App Navigation guide: https://drive.google.com/file/d/1WmRf_ZGBtxOE1gahicCEU6kH0eVStQhb/view?usp=sharing
