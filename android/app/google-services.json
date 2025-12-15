@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "102040779370",
+    "project_id": "carryhub-9acb5",
+    "storage_bucket": "carryhub-9acb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102040779370:android:c1ad1cc2d20b3396282813",
+        "android_client_info": {
+          "package_name": "carryhub123.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102040779370-mcnhagttv4i9a8f3e347eqgdii1of2am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "carryhub123.com",
+            "certificate_hash": "8c57bb348822dd269457acb4487b263446366479"
+          }
+        },
+        {
+          "client_id": "102040779370-95c4vaqur0l380sscflpo6fcak6golkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhAE_Y8N3cmshlkHHAi-n9FfP3554HTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102040779370-95c4vaqur0l380sscflpo6fcak6golkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
