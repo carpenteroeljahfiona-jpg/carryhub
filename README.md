@@ -1,16 +1,15 @@
 # carryhub
 
-A new Flutter project.
+CarryHub is a platform for peer-to-peer academic commissions within DNSC. 
+Users can post project-related tasks, such as art sketches, logos, or other school project 
+outputs and browse commissions posted by other students to apply for tasks that match 
+their skills. 
+The application highlights completed commissions and user activity to help 
+students evaluate reliability, competence, and work quality when selecting a Doer for their 
+commission
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Download the apk: https://github.com/carpenteroeljahfiona-jpg/carryhub/releases/download/v1.0.0/carryhub.apk
+View Installation Guide: https://drive.google.com/file/d/1Jh9vn8powyRZpAuhI9lLWeKLJjfUElgP/view?usp=sharing
+View App Navigation guide: https://drive.google.com/file/d/1WmRf_ZGBtxOE1gahicCEU6kH0eVStQhb/view?usp=sharing
